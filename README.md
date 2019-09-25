@@ -18,6 +18,7 @@
     - hashtag + 位置情報 ?
  
  **活動**
+ - 2019/09/25 Code for Harimaにて[加古川パスタレシピ研究会Vol.1](https://www.facebook.com/events/498722677355065/)を開催
  - 2019/06/12 Code for Harimaで報告＆試食会 part.2
  - 2019/05/29 八幡営農組合訪問
   
